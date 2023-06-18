@@ -1,4 +1,4 @@
-# ERA Session 5 :: MNIST Handwritten Digits Classifier
+# ERA Session 7 :: MNIST Handwritten Digits Classifier
 
 This project provides a machine learning model for the classification of handwritten digits using the famous MNIST dataset.
 
